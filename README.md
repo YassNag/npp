@@ -1,2 +1,2 @@
 # npp
-network planing problem
+A combinatorial optimization network planing problem
